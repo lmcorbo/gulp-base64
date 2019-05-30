@@ -16,11 +16,11 @@
   "author": "Yaroslav 2gis",
   "license": "MIT",
   "dependencies": {
-    "through2": "~0.4.1",
-    "extend": "~1.2.1",
     "async": "~0.2.10",
-    "mime": "~1.2.11",
-    "request": "~2.33.0",
-    "buffers": "~0.1.1"
+    "buffers": "~0.1.1",
+    "extend": "~1.2.1",
+    "mime": "~2.4.3",
+    "request": "^2.88.0",
+    "through2": "~0.4.1"
   }
 }
